@@ -1,0 +1,29 @@
+{
+  "_files": {},
+  "project": "离线商品管理页",
+  "version": "v1.0",
+  "environment": "请填写实际浏览器与设备",
+  "items": [
+    {
+      "feature": "关键词搜索",
+      "steps": "输入水杯",
+      "expected": "只显示匹配记录",
+      "actual": "",
+      "status": "未测"
+    },
+    {
+      "feature": "CSV导出",
+      "steps": "点击导出并打开文件",
+      "expected": "列名和记录完整",
+      "actual": "",
+      "status": "未测"
+    },
+    {
+      "feature": "手机页面",
+      "steps": "在手机浏览器打开",
+      "expected": "文字和按钮可用",
+      "actual": "",
+      "status": "未测"
+    }
+  ]
+}
